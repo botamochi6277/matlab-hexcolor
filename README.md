@@ -1,4 +1,5 @@
- # matlab-hexcolor
+# matlab-hexcolor
+
 ![eyeCatch](./img/hexcolor.png)
 
 Matlab function to convert a hex color code to a RGB color vector.
