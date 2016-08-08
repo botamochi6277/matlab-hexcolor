@@ -1,4 +1,4 @@
-# matlab-hexcolor
+ # matlab-hexcolor
 ![eyeCatch](./img/hexcolor.png)
 
 Matlab function to convert a hex color code to a RGB color vector.
@@ -10,6 +10,7 @@ Matlab function to convert a hex color code to a RGB color vector.
 3. *v* is a three dimentonal vector: [0.9255    0.2275    0.2039].
 4. You can use this color for ploted line color, text, etc.
 ![](./img/hexcolorEg.png)
+
 ### Function
 ```
 col = hexcolor(str)
